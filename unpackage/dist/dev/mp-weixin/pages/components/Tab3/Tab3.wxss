@@ -1,0 +1,39 @@
+
+/* Your styles here */
+.container.data-v-9ab85748 {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.nav.data-v-9ab85748 {
+  display: flex;
+  flex-direction: column;
+}
+.tab-scroll.data-v-9ab85748 {
+  overflow-x: auto;
+}
+.tab-scroll_box.data-v-9ab85748 {
+  display: flex;
+  flex-direction: row;
+}
+.tab-scroll_item.data-v-9ab85748 {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+.tab-scroll_item.active.data-v-9ab85748 {
+  color: #007aff;
+  font-weight: bold;
+}
+.swiper-content.data-v-9ab85748 {
+  flex: 1;
+}
+.swiperitem-content.data-v-9ab85748 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav_item.data-v-9ab85748 {
+  padding: 20px;
+}

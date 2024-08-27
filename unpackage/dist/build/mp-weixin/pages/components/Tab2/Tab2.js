@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),t={name:"Tab2",props:{typeid:{type:Number,default:1}},data:()=>({name:"Tab2"})};const a=e._export_sfc(t,[["render",function(t,a,r,n,d,o){return{a:e.t(r.typeid+1)}}],["__scopeId","data-v-453fd280"]]);wx.createPage(a);
